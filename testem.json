@@ -1,1 +1,6 @@
-{}
+{
+    "src_files": [
+        "test/**/*.js",
+        "crafty.js"
+    ]
+}
